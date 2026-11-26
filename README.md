@@ -1,8 +1,11 @@
-<h1 align="center">DS64</h1>
+<p align="center">
+  <img src="./assets/banner.svg" alt="DS64: play Mario Kart DS with your hands or your phone" width="1000" />
+</p>
 
 <p align="center">
-  <b>Play Mario Kart DS with your hands or your phone.</b><br>
-  A <a href="https://github.com/melonDS-emu/melonDS">melonDS</a> fork with webcam gesture steering, a phone touch controller, and up to 4-player local multiplayer in one window.
+  <b>DS64</b> is a <a href="https://github.com/melonDS-emu/melonDS">melonDS</a> fork with webcam gesture steering,
+  a phone touch controller, and up to 4-player local multiplayer in one window.<br>
+  Built by <a href="https://github.com/MicroClub-USTHB">Micro Club USTHB</a>.
 </p>
 
 <p align="center">
@@ -12,6 +15,7 @@
   <a href="https://github.com/wailbentafat/mario-cam-kart/releases"><img src="https://img.shields.io/github/v/release/wailbentafat/mario-cam-kart?include_prereleases" alt="Latest release"></a>
   <a href="vendor/melonDS-src/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="License: GPL-3.0"></a>
 </p>
+
 
 ---
 
