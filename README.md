@@ -21,6 +21,7 @@
 
 ## Table of contents
 
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [How it works](#how-it-works)
 - [Install](#install)
@@ -32,6 +33,16 @@
 - [Contributing](#contributing)
 - [License and legal](#license-and-legal)
 - [Acknowledgements](#acknowledgements)
+
+## Screenshots
+
+<table>
+<tr>
+<td width="55%" valign="top"><img src="./assets/screenshots/mario-race.png" alt="A race running in DS64" /><br /><sub>A race running in DS64</sub></td>
+<td width="22%" valign="top"><img src="./assets/screenshots/phone-start.png" alt="Phone controller start screen" /><br /><sub>Phone controller</sub></td>
+<td width="22%" valign="top"><img src="./assets/screenshots/phone-steering.png" alt="Choosing a steering style on the phone" /><br /><sub>Steering style: wheel, buttons or gyroscope</sub></td>
+</tr>
+</table>
 
 ## Features
 
